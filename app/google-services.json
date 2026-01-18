@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057607177250",
+    "project_id": "echo-habit",
+    "storage_bucket": "echo-habit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057607177250:android:930d5ab556c7030357e67b",
+        "android_client_info": {
+          "package_name": "com.echohabit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057607177250-p6771htbi3odeh1g6dv48k5l1oqhgf96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.echohabit.app",
+            "certificate_hash": "f3fcb785a61e6d1122bc72728632f3dbf3996a14"
+          }
+        },
+        {
+          "client_id": "1057607177250-0g7tvprp1lgnrmc7nsdc852q71l9tjo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTS6Xr0zcxaHc4YEoChFMmVJX_tTCR7Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057607177250-0g7tvprp1lgnrmc7nsdc852q71l9tjo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
