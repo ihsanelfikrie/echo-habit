@@ -68,28 +68,6 @@ Echo Habit menyediakan platform all-in-one untuk:
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Splash Screen | Onboarding | Login |
-|:-------------:|:----------:|:-----:|
-| ![Splash](https://via.placeholder.com/250x500/10b981/ffffff?text=Splash) | ![Onboarding](https://via.placeholder.com/250x500/10b981/ffffff?text=Onboarding) | ![Login](https://via.placeholder.com/250x500/10b981/ffffff?text=Login) |
-
-| Home Screen | Upload Activity | Stats |
-|:-----------:|:---------------:|:-----:|
-| ![Home](https://via.placeholder.com/250x500/10b981/ffffff?text=Home) | ![Upload](https://via.placeholder.com/250x500/10b981/ffffff?text=Upload) | ![Stats](https://via.placeholder.com/250x500/10b981/ffffff?text=Stats) |
-
-| Badges | Profile | Share Card |
-|:------:|:-------:|:----------:|
-| ![Badges](https://via.placeholder.com/250x500/10b981/ffffff?text=Badges) | ![Profile](https://via.placeholder.com/250x500/10b981/ffffff?text=Profile) | ![Share](https://via.placeholder.com/250x500/10b981/ffffff?text=Share) |
-
-</div>
-
-> **Note:** Replace placeholders dengan screenshot actual dari aplikasi
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
